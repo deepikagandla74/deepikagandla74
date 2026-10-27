@@ -31,10 +31,6 @@
 </p>
 
 
-### <i> Contribution Snake </i>
-![Snake animation](https://raw.githubusercontent.com/deepikagandla74/deepikagandla74/output/github-contribution-grid-snake.svg)
-
-
 # GitHub Stats:
 
 <div align="center">
